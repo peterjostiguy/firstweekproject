@@ -5,6 +5,7 @@ header {
   background-color: rgb(50, 50, 50);
   display: flex;
     justify-content: space-around;
+
 }
 header h1 {
   color: rgb(175,175,175)
@@ -55,7 +56,6 @@ section {
   height: 300px;
   width: 300px;
   margin: 15px;
-
 }
 
 section > img {
